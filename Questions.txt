@@ -1,0 +1,16 @@
+1. What is the total number of passengers and how many survived vs did not survive
+2. What is the gender distribution of passengers
+3. What is the average, median, and range of passenger ages
+4. How many passengers belong to each class (Pclass)
+5. What is the survival rate by gender
+6. What is the survival rate by passenger class
+7. What is the average fare paid by each class
+8. Which embarkation port (Embarked) has the highest number of passengers
+9. Analyze survival rate by both gender and class (e.g., female in 1st class vs male in 3rd class).
+10. Identify if there is a relationship between fare and survival (use grouping or visualization logic).
+11. Segment passengers into age groups and compare survival rates across groups.
+12. Identify outliers in fare and age — how do they affect your analysis
+13. If you were presenting this dataset to stakeholders, what 3 key insights would you highlight and why
+14. How would you clean and prepare this dataset for analysis (missing values, inconsistencies)
+15. Write SQL-style logic to calculate survival rate by multiple dimensions (e.g., gender + class).
+16. How would you design a dashboard (KPIs, charts, filters) for this dataset
