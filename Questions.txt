@@ -13,4 +13,5 @@
 13. If you were presenting this dataset to stakeholders, what 3 key insights would you highlight and why
 14. How would you clean and prepare this dataset for analysis (missing values, inconsistencies)
 15. Write SQL-style logic to calculate survival rate by multiple dimensions (e.g., gender + class).
-16. How would you design a dashboard (KPIs, charts, filters) for this datasetf
+16. How would you design a dashboard (KPIs, charts, filters) for this dataset
+d
